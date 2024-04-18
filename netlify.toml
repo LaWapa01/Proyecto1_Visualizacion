@@ -1,0 +1,3 @@
+[build]
+  command = "jupyter nbconvert --to html covid_cases.ipynb"
+  publish = "output_folder"
